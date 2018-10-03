@@ -1,6 +1,6 @@
-# [ Hacktoberfest Code Poem ]
+# Hacktoberfest Code Poem
 
-[ This project will create a code tone poem for Hacktoberfest. Through the contributions of others, in either poem or sound files, the end of this project will see a Code Poem that can be listened to. ]
+This project will create a code tone poem for Hacktoberfest. Through the contributions of others, in either poem or sound files, the end of this project will see a Code Poem that can be listened to.
 
 [Welcome and thanks for joining in this project. What I am creating here is a collaborative code tone poem. This is a creative endeavour that is also my learning practise for using GitHub in an open project. I want to bring in people's contributions to create a tone poem based on code snippets and sound bites. These will be combined in two forms. Firstly the sound bites will be combined into a tone poem and secondly the snippets of code will be mined and put into a poetic form. ]
 
@@ -16,8 +16,5 @@ Thanks for your interest in contributing to [PROJECT]! There are many ways to co
 
 This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
 
-## MozFest
+## Hacktoberfest
 
-Join us at the [Mozilla Festival](http://mozillafestival.org/) October 26-28, 2018 at Ravensbourne College, London! We'll be meeting in person to collaborate on this project and learn from each other. Read more about our session [link to your session] and [get your MozFest tickets now](https://mozillafestival.org/tickets)!
-
-![](https://mozillafestival.org/assets/images/Mozilla-Festival-2018.svg)
