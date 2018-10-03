@@ -1,14 +1,12 @@
-# [ Project ]
+# [ Hacktoberfest Code Poem ]
 
-[ Project vision or mission statement. [Tips on writing your vision](https://acabunoc.github.io/mozfest-open-projects-2016/articles/vision/).]
+[ This project will create a code tone poem for Hacktoberfest. Through the contributions of others, in either poem or sound files, the end of this project will see a Code Poem that can be listened to. ]
 
-[ If you have one, add your logo or an image here ]
-
-[ Your longer project description goes here. Use this space to welcome newcomers, articulate the problem you're trying to solve, and explain your solution. For help on writing a good readme, see [this exercise](http://mozillascience.github.io/working-open-workshop/writing_readme/). ]
+[Welcome and thanks for joining in this project. What I am creating here is a collaborative code tone poem. This is a creative endeavour that is also my learning practise for using GitHub in an open project. I want to bring in people's contributions to create a tone poem based on code snippets and sound bites. These will be combined in two forms. Firstly the sound bites will be combined into a tone poem and secondly the snippets of code will be mined and put into a poetic form. ]
 
 ## Getting Started
 
-[ Use this section to orient newcomers to your project on how to use it. Installation or download instructions? Viewing instructions? Example code snippet? Add them here! ]
+[ The most important factor in this project is diverse contributions and no wrong answers! Please choose to contribute a code snippet (2-3 lines would be ample) or to share a sound file. ]
 
 ## Contributing
 
