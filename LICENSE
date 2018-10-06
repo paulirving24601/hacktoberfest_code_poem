@@ -1,7 +1,5 @@
 <!--- 
-Choose an open license and add it here. If you need help, take a look 
-at http://choosealicense.com/. Below is 
-CC-BY-4.0 (approriate for non-code works)
+CC-BY-4.0 
 --->
 
 
@@ -173,15 +171,15 @@ Section 2 -- Scope.
 
        5. Downstream recipients.
 
+            b. No downstream restrictions. You may not offer or impose
+               any additional or different terms or conditions on, or
+               apply any Effective Technological Measures to,
             a. Offer from the Licensor -- Licensed Material. Every
                recipient of the Licensed Material automatically
                receives an offer from the Licensor to exercise the
                Licensed Rights under the terms and conditions of this
                Public License.
-
-            b. No downstream restrictions. You may not offer or impose
-               any additional or different terms or conditions on, or
-               apply any Effective Technological Measures to, the
+ the
                Licensed Material if doing so restricts exercise of the
                Licensed Rights by any recipient of the Licensed
                Material.
