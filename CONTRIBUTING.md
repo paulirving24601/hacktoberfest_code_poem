@@ -1,7 +1,6 @@
-# Contributing to [Project]
+# Contributing to Code Poem
 
-Add a bit of welcome and cheer at the top
->Thank you for your interest in contributing to [Project] :tada:! 
+>Thank you for your interest in contributing to this [code poem] :tada:! 
 
 Restart your project vision here. Redundancy is your friend
 >[Project] is ...
