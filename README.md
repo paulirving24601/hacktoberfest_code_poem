@@ -14,7 +14,7 @@ Thanks for your interest in contributing to [Code Poem]! There are two ways to c
 
 ## Participation Guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
+This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior via Twitter @wentale.
 
 ## Hacktoberfest
 
