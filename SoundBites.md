@@ -1,0 +1,1 @@
+Add a link to your sound file. MP3 is preferred. Check the License file (https://github.com/Wentale/hacktoberfest_code_poem/blob/master/LICENSE) for details of the license that is applied to sound files submitted.
