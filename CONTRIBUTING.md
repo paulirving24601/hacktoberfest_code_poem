@@ -10,7 +10,7 @@ This documents is a set of guidelines for contributing to Code Poem on GitHub. T
 
 ## How to submit changes
 
-> Add your contribution to the either the [CodeSnippets](https://github.com/Wentale/hacktoberfest_code_poem/blob/master/CodeSnippets) file or the [SoundBites.md](https://github.com/Wentale/hacktoberfest_code_poem/blob/master/SoundBites.md) file.
+Add your contribution to the either the [CodeSnippets](https://github.com/Wentale/hacktoberfest_code_poem/blob/master/CodeSnippets) file or the [SoundBites.md](https://github.com/Wentale/hacktoberfest_code_poem/blob/master/SoundBites.md) file.
 
 > 1. **[Fork](https://help.github.com/articles/fork-a-repo/) this repository**. This makes your own version of this project you can edit and use.
 > 2. **[Make your changes](https://guides.github.com/activities/forking/#making-changes)**! You can do this in the GitHub interface on your own local machine. Once you're happy with your changes...
@@ -18,7 +18,7 @@ This documents is a set of guidelines for contributing to Code Poem on GitHub. T
 
 Once the PR is completed, create another PR to add our GitHub ID to the [AuthorList](https://github.com/Wentale/hacktoberfest_code_poem/blob/master/AuthorList) :clap: :clap:
 
-> First time contributing to open source? Check out this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
+First time contributing to open source? Check out this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
 
 ## Communication channels
 
