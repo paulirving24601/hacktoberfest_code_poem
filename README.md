@@ -10,11 +10,11 @@ The most important factors in this project is attracting diverse contributions a
 
 ## Contributing
 
-Thanks for your interest in contributing to [Code Poem]! There are two ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
+Thanks for your interest in contributing to Code Poem! Take a look at [CONTRIBUTING.md](CONTRIBUTING.md) to understand the two ways to contribute to this project.
 
 ## Participation Guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior via Twitter @wentale.
+This project adheres to a [code of conduct](https://github.com/Wentale/hacktoberfest_code_poem/blob/master/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior via [email](mailto:wen.ta.say@gmail.com)
 
 ## Hacktoberfest
 
