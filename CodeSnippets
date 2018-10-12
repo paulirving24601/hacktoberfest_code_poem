@@ -2,3 +2,9 @@
 
 sum([x**2 for x in range(11)])
 See this tweet for contribution. (https://twitter.com/dogtrax/status/1049249238343995392)
+
+#wowslider-container1.ws_gestures {
+	cursor: -webkit-grab;
+	cursor: -moz-grab;
+	cursor: url("data:image/png;base64,4THe60iMAge2ExIsts8in5HidDeN08witHIn0tHe8MANY5coMPoNENt7ParTS/0macHiNe8trANsLATAble09ImAGeRy0/REDUCInG8potenTIAl6art2to5zeROes9and9ONEs2="), move;
+}
